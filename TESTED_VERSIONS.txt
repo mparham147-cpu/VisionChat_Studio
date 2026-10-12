@@ -1,0 +1,12 @@
+Test environment Python: 3.12.14
+streamlit==1.65.0
+numpy==2.3.5
+opencv-python-headless==5.0.0.93
+pandas==2.2.3
+matplotlib==3.10.8
+python-docx==1.2.0
+langchain==1.4.3
+langchain-openai==1.6.7
+langgraph==1.2.12
+
+The test container uses headless OpenCV; Windows requirements use opencv-python.

@@ -1,0 +1,12 @@
+streamlit>=1.40,<2
+python-dotenv
+numpy
+matplotlib
+opencv-python
+python-docx
+pydantic
+pandas
+langchain>=1.0,<2
+langchain-openai
+langgraph>=1.0,<2
+langchain-ollama
